@@ -2,8 +2,7 @@
 
 A modern and responsive job portal application built with Flutter, featuring a clean and professional UI with login and registration functionality.
 
-## 📱 Screenshots
-![image](https://github.com/user-attachments/assets/250174eb-ef06-4386-80a5-6e2bf550bb96)
+
 
 
 
